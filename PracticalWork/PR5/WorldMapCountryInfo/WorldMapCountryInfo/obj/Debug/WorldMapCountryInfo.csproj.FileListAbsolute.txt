@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\WorldMapCountryInfo.exe.config
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\WorldMapCountryInfo.exe
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\WorldMapCountryInfo.pdb
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\GMap.NET.Core.dll
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.Properties.Resources.resources
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMap.235445B7.Up2Date
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.exe
+C:\Users\HP\source\repos\WorldMapCountryInfo\WorldMapCountryInfo\obj\Debug\WorldMapCountryInfo.pdb
