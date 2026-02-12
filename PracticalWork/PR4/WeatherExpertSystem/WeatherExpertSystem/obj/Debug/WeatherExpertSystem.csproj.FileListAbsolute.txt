@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\obj\Debug\WeatherExpertSystem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\obj\Debug\WeatherExpertSystem.Form1.resources
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\obj\Debug\WeatherExpertSystem.Properties.Resources.resources
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\obj\Debug\WeatherExpertSystem.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\obj\Debug\WeatherExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\bin\Debug\WeatherExpertSystem.exe.config
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\bin\Debug\WeatherExpertSystem.exe
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\bin\Debug\WeatherExpertSystem.pdb
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\obj\Debug\WeatherE.ECD5E608.Up2Date
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\obj\Debug\WeatherExpertSystem.exe
+C:\Users\HP\source\repos\WeatherExpertSystem\WeatherExpertSystem\obj\Debug\WeatherExpertSystem.pdb
