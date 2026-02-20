@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\DecisionTreeApp\DecisionTreeApp\bin\Debug\DecisionTreeApp.exe.config
+C:\Users\HP\source\repos\DecisionTreeApp\DecisionTreeApp\bin\Debug\DecisionTreeApp.exe
+C:\Users\HP\source\repos\DecisionTreeApp\DecisionTreeApp\bin\Debug\DecisionTreeApp.pdb
+C:\Users\HP\source\repos\DecisionTreeApp\DecisionTreeApp\obj\Debug\DecisionTreeApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DecisionTreeApp\DecisionTreeApp\obj\Debug\DecisionTreeApp.Form1.resources
+C:\Users\HP\source\repos\DecisionTreeApp\DecisionTreeApp\obj\Debug\DecisionTreeApp.Properties.Resources.resources
+C:\Users\HP\source\repos\DecisionTreeApp\DecisionTreeApp\obj\Debug\DecisionTreeApp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\DecisionTreeApp\DecisionTreeApp\obj\Debug\DecisionTreeApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DecisionTreeApp\DecisionTreeApp\obj\Debug\DecisionTreeApp.exe
+C:\Users\HP\source\repos\DecisionTreeApp\DecisionTreeApp\obj\Debug\DecisionTreeApp.pdb
