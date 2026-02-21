@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\FamilyTreeApp\FamilyTreeApp\bin\Debug\FamilyTreeApp.exe.config
+C:\Users\HP\source\repos\FamilyTreeApp\FamilyTreeApp\bin\Debug\FamilyTreeApp.exe
+C:\Users\HP\source\repos\FamilyTreeApp\FamilyTreeApp\bin\Debug\FamilyTreeApp.pdb
+C:\Users\HP\source\repos\FamilyTreeApp\FamilyTreeApp\obj\Debug\FamilyTreeApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FamilyTreeApp\FamilyTreeApp\obj\Debug\FamilyTreeApp.Form1.resources
+C:\Users\HP\source\repos\FamilyTreeApp\FamilyTreeApp\obj\Debug\FamilyTreeApp.Properties.Resources.resources
+C:\Users\HP\source\repos\FamilyTreeApp\FamilyTreeApp\obj\Debug\FamilyTreeApp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\FamilyTreeApp\FamilyTreeApp\obj\Debug\FamilyTreeApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FamilyTreeApp\FamilyTreeApp\obj\Debug\FamilyTreeApp.exe
+C:\Users\HP\source\repos\FamilyTreeApp\FamilyTreeApp\obj\Debug\FamilyTreeApp.pdb
